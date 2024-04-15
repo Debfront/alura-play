@@ -5,3 +5,6 @@ Uma plataforma de vídeos que possui cabeçalho, menu lateral, seção superior,
 Organizamos todos esses elementos aprendendo sobre Flexbox e contextualizando com outras propriedades do CSS.
 
 Gratidão.
+
+
+<img src="./img/aluraplay.png">
