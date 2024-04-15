@@ -7,4 +7,4 @@ Organizamos todos esses elementos aprendendo sobre Flexbox e contextualizando co
 Gratidão.
 
 
-<img src="./img/aluraplay.png">
+<img src="./img/videos/aluraplay.png">
